@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ömer Gölcük
 
-<!--
-**OmerGolcuk/OmerGolcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical and Electronics Engineer with a strong interest in **computer architecture, hardware acceleration, parallel computing, and performance-oriented system design**. My work focuses on understanding and improving the interaction between **data movement, memory systems, and compute efficiency** in modern workloads.
 
-Here are some ideas to get you started:
+Currently, I am working on research related to **programmable data-reordering / permutation support for memory-bound workloads**, with applications in areas such as FFT/NTT, attention, GEMM, and other layout-sensitive kernels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- Computer Architecture
+- Hardware Acceleration
+- Parallel Computing
+- Memory Systems and Data Movement
+- GPU / AI Accelerator Architectures
+- Energy-Efficient System Design
+- Performance Analysis and Optimization
+
+---
+
+## Current Focus
+
+- Studying architectural bottlenecks caused by **data layout transformations**
+- Exploring **programmable permutation / reordering support** for accelerators
+- Building software evaluation frameworks for memory-bound workloads
+- Analyzing performance through simulation, benchmarking, and architectural reasoning
+
+---
+
+## Tools and Technologies
+
+**Languages:**  
+C, C++, Python, Verilog/SystemVerilog
+
+**Hardware / Systems:**  
+Computer Architecture, Parallel Programming, Hardware Acceleration, VLSI Design
+
+**Frameworks / Tools:**  
+CUDA, OpenMP, CMake, Git, Linux, MATLAB
